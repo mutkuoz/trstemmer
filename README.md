@@ -6,3 +6,4 @@ result = stemmer.stem("seviyorum, yapmışım, koşarlar, yemişsin")
 print(f"Result: {result}")
 >>> Result: sev yap koş ye
 ```
+PyPi Link: https://pypi.org/project/trstemmer/
